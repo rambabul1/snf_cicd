@@ -12,7 +12,7 @@ on:
 workflow_dispatch:
 
 Jobs:
-  Snowflake:
+ 
     runs-on: ubuntu-latest
 
     steps:
