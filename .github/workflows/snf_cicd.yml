@@ -12,7 +12,7 @@ on:
 workflow_dispatch:
 
 Jobs:
-  snowflake-cicd-showcase:
+  #snowflake-cicd-showcase:
     runs-on: ubuntu-latest
 
     steps:
