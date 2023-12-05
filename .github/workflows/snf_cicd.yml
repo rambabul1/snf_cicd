@@ -12,7 +12,7 @@ on:
 workflow_dispatch:
 
 Jobs:
- 
+  snf_cicd:
     runs-on: ubuntu-latest
 
     steps:
