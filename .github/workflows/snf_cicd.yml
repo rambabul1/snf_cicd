@@ -9,7 +9,7 @@ on:
     paths:
       - 'scripts/**'
  # Allows you to run this workflow manually from the Actions Tab
- workflow_dispatch:
+workflow_dispatch:
 
 Jobs:
   Snowflake:
